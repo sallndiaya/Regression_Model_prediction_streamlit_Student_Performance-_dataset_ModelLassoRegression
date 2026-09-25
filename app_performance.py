@@ -22,6 +22,7 @@ st.set_page_config(
 DESCRIPTION = (
     "This machine learning model allows us to predict Student Performance "
     "from Hours_Studied,Previous_Scores,Extracurricular_Activities, Sleep_Hours,Sample_Question_Papers_Practiced"
+    "Model Lasso Regression"
 )
 
 # ----------------------------------------------------------------------

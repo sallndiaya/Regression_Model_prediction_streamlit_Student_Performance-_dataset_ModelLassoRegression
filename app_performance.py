@@ -14,7 +14,7 @@ import streamlit as st # type: ignore
 # Configuration de la page
 # ----------------------------------------------------------------------
 st.set_page_config(
-    page_title="Predict Student Performance",
+    page_title="Predict Student Performance -Model Lasso Regression",
     page_icon="👨‍🎓",
     layout="centered",
 )
